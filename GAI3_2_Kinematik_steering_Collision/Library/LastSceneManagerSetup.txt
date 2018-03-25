@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GAI3_Kinematic/LatihahCollisionAv.unity
+  isLoaded: 1
+  isActive: 1
